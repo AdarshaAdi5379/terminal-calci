@@ -58,6 +58,6 @@ Goodbye.
 
 🐳 Docker Hub
 
-📦 Image: adarsha5389/terminal-calci
+📦 Image: [adarsha5389/terminal-calci](https://hub.docker.com/repository/docker/adarsha5389/terminal-calci/general)
 
 📥 Pull: docker pull adarsha5389/terminal-calci:latest
